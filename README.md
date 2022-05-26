@@ -52,3 +52,5 @@
 - Qual a porcentagem de apoio do SUS a regiões indígenas?
 - Qual a relação entre nascidos vivos e a distribuição de redes de saúde pública?
 - Qual a porcentagem de planos de saúde privado por estado?
+- Qual a relação entre as areas de maior incidencia de covid e da influenza?
+- Qual doença viral possui maior incidência na população indigena, considerando todas as regiões brasileiras?
