@@ -33,7 +33,13 @@
 
 [OpenSUS](https://opendatasus.saude.gov.br/dataset)
 
-## :question: Questões
+## :question: Questões 
+- Qual a taxa de incidência de doenças virais em indivíduos em vulnerabilidade social?
+- Qual classe social possui mais probabilidade de ser internado por conta da doença COVID-19?
+- Qual região do brasil mais utiliza o sistema público de saúde?
+- Qual a probabilidade de um idoso do sexo masculino residente da região nordeste utilizar o sistema público de saúde?
+- Qual estado em que a porcentagem de doenças causadas por falta de saneamento básico é maior?
+- Qual região do país apresentou maior apatia ao programa de vacinação contra a COVID-19?
 
 - Qual região brasileira apresentou maior redução de mortes causadas por COVID-19 após o início das vacinações (Março/Abril 2021)?
 - Qual região brasileira é mais afetada pela Influenza?
