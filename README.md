@@ -30,3 +30,5 @@
 [Preço de Medicamentos no Brasil - Consumidor - Portal Brasileiro de Dados Abertos](https://dados.gov.br/dataset/preco-de-medicamentos-no-brasil-consumidor)
 
 [Limites das regiões de saúde - Portal Brasileiro de Dados Abertos](https://dados.gov.br/dataset/limites_regiao_saude)
+
+[OpenSUS](https://opendatasus.saude.gov.br/dataset)
