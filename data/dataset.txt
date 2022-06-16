@@ -1,0 +1,1 @@
+https://github.com/wcota/covid19br/blob/bf7e37931e46242e43fa976e27ca0a9a056a5ce2/cities_info.csv
