@@ -34,23 +34,21 @@
 [OpenSUS](https://opendatasus.saude.gov.br/dataset)
 
 ## :question: Questões 
-- Qual a taxa de incidência de doenças virais em indivíduos em vulnerabilidade social?
-- Qual classe social possui mais probabilidade de ser internado por conta da doença COVID-19?
-- Qual região do brasil mais utiliza o sistema público de saúde?
-- Qual a probabilidade de um idoso do sexo masculino residente da região nordeste utilizar o sistema público de saúde?
-- Qual estado em que a porcentagem de doenças causadas por falta de saneamento básico é maior?
-- Qual região do país apresentou maior apatia ao programa de vacinação contra a COVID-19?
-- Qual região brasileira apresentou maior redução de mortes causadas por COVID-19 após o início das vacinações (Março/Abril 2021)?
-- Qual região brasileira é mais afetada pela Influenza?
-- Qual o avanço da COVID-19 no interior do Brasil?
-- Qual o aumento relativo de casos leves e moderados suspeitos de COVID em 2022?
-- Qual o percentual de ocupação hospitalar durante a pandemia?
-- Qual o percentual de contaminação da população indígena pelo COVID?
-- Quais regiões tem maior necessidade de apoio do SUS pelo alto custo dos medicamentos ?
-- Qual a distribuição de redes de saúde por estado?
-- Qual a relação entre o nível de satisfação com o SUS por região e a distribuição de redes de saúde pública?
-- Qual a porcentagem de apoio do SUS a regiões indígenas?
-- Qual a relação entre nascidos vivos e a distribuição de redes de saúde pública?
-- Qual a porcentagem de planos de saúde privado por estado?
-- Qual a relação entre as areas de maior incidencia de covid e da influenza?
-- Qual doença viral possui maior incidência na população indigena, considerando todas as regiões brasileiras?
+# Novas Perguntas
+
+- Qual região do país apresentou maior apatia ao programa de vacinação contra a COVID-19? 
+- Qual região brasileira apresentou maior redução de mortes causadas por COVID-19 após o início das vacinações (Março/Abril 2021)? 
+- Qual região brasileira é mais afetada pela COVID-19? 
+- Qual o avanço da COVID-19 no interior do Brasil? 
+- Qual o aumento relativo de casos suspeitos de COVID-19 em 2022?
+- Qual o percentual de ocupação hospitalar durante a pandemia? 
+- Qual ano houve a maior incidência de COVID-19 na região sudeste do Brasil? 
+- Qual estado apresentou maior número de casos por 100 mil habitantes no ano de 2021? 
+- Qual estado apresentou maior número de mortes por 100 mil habitantes no ano de 2021? 
+- Qual estado apresentou maior número de recuperados nos três anos de pandemia? 
+- Qual estado em teria maior simpatia por uma nova dose de vacina? 
+- Há alguma relação entre estados e quantidade de doses aplicadas?
+- Houve redução no número de casos de COVID-19 após 1 ano da aplicação da primeira dose da vacina contra COVID-19?  
+- Houve redução no número de testes de COVID-19 após 1 ano da aplicação da primeira dose da vacina contra COVID-19?   
+- Qual estado realizou a maior testagem nos três anos? 
+- Qual estado aplicou mais vacinas até o momento? 
